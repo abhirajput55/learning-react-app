@@ -1,0 +1,15 @@
+select,input{
+    display: block;
+    padding: 0.5em;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+
+.submitBtn{
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+option{
+    color: black;
+}
